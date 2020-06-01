@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
+Join our [discord](https://discord.gg/9mY7BVK){: target="_blank"} to join our members. 
 
-Insert your contact details or a contact form here.
-
-Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
+Also like our [facebook page](https://www.facebook.com/concordiagamedev){: target="_blank"} to stay tuned with upcoming events! 

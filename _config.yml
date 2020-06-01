@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Concordia Game Development (CGD) is a club where you and other hobbyists, students and professionals can connect and share ideas about game development.
   
   
-baseurl: "http://concordia-game-development.github.io/cgd" # the subpath of your site, e.g. /blog
+baseurl: "/cgd" # the subpath of your site, e.g. /blog
 url: "http://concordia-game-development.github.io" # the base hostname & protocol for your site
 
 #sidebar
@@ -40,17 +40,17 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+facebook: https://www.facebook.com/concordiagamedev
+quora:
+twitter:
+github: https://github.com/Concordia-Game-Development
+email: conu.game.dev@gmail.com
 
 #facebook like box
 fb-like-box: yes
 fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-page-url: https://www.facebook.com/concordiagamedev
+fb-page-title: Concordia Game Development
 
 # Sass style
 sass:

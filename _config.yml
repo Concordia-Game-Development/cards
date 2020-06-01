@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Concordia Game Development (CGD) is a club where you and other hobbyists, students and professionals can connect and share ideas about game development.
   
   
-baseurl: "/cgd" # the subpath of your site, e.g. /blog
+baseurl: "http://concordia-game-development.github.io/cgd" # the subpath of your site, e.g. /blog
 url: "http://concordia-game-development.github.io" # the base hostname & protocol for your site
 
 #sidebar

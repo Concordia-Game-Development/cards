@@ -40,17 +40,17 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: https://www.facebook.com/concordiagamedev
-quora:
-twitter:
-github: https://github.com/Concordia-Game-Development
-email: conu.game.dev@gmail.com
+facebook: http://facebook.com/webjeda
+quora: http://quora.com/sharathdt
+twitter: http://twitter.com/@webjeda
+github: http://github.com/webjeda
+email: hello@webjeda.com
 
 #facebook like box
 fb-like-box: yes
 fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/concordiagamedev
-fb-page-title: Concordia Game Development
+fb-page-url: https://www.facebook.com/webjeda/
+fb-page-title: webjeda
 
 # Sass style
 sass:

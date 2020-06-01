@@ -7,11 +7,12 @@ permalink: /about/
 
 
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+Concordia Game Development (CGD) is a club where you and other hobbyists, students and professionals can connect and share ideas about game development.
+Join our discord [Webjeda Blog](https://discord.gg/9mY7BVK){: target="_blank"} to join our members. 
 
-For more themes, visit [jekyll-themes](https://jekyll-themes.com){: target="_blank"}
+Also like our facebook page to stay tuned with upcoming events! [jekyll-themes](https://www.facebook.com/concordiagamedev){: target="_blank"}
 
-**Does the theme deserve a star?**
+**Let's make games together!**
 
 <a class="github-button" href="https://github.com/sharu725/cards" data-style="mega" data-count-href="/sharu725/cards/stargazers" data-count-api="/repos/sharu725/cards#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/cards on GitHub">Star</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>

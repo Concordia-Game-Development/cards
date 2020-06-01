@@ -8,9 +8,9 @@ permalink: /about/
 
 
 Concordia Game Development (CGD) is a club where you and other hobbyists, students and professionals can connect and share ideas about game development.
-Join our discord [Webjeda Blog](https://discord.gg/9mY7BVK){: target="_blank"} to join our members. 
+Join our [discord](https://discord.gg/9mY7BVK){: target="_blank"} to join our members. 
 
-Also like our facebook page to stay tuned with upcoming events! [jekyll-themes](https://www.facebook.com/concordiagamedev){: target="_blank"}
+Also like our [facebook page](https://www.facebook.com/concordiagamedev){: target="_blank"} to stay tuned with upcoming events! 
 
 **Let's make games together!**
 

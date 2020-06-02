@@ -19,8 +19,6 @@ html {
 }
 body {
   margin: 0;
-  background-image: "images/background.png";
-  background-color: #686868;
 }
 article,
 aside,
@@ -4498,7 +4496,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-image: "images/background.png";
+  background-color: #686868;
   border-color: #dddddd;
 }
 .navbar-default .navbar-brand {

@@ -1090,8 +1090,9 @@ body {
   font-size: 20px;
   line-height: 1.6;
   color: #ffd000;
-  background-image: "images/background.png";
+  background-image: url("/cgd/images/background.png");
   background-color: #686868;
+  background-size: contain;
 }
 input,
 button,

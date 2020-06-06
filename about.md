@@ -8,9 +8,7 @@ Concordia Game Development (CGD) is a club where you and other hobbyists, studen
 
 **Let's make games together!**
 
----
-title: Contact
----
+<h1><u>Contact</u></h1>
 
 Join our [discord](https://discord.gg/9mY7BVK){: target="_blank"} to join our members. 
 

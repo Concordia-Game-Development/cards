@@ -14,4 +14,5 @@ If you want, you can also just throw everyone in the pit. You won't get a nice s
 Play the game: https://matote.itch.io/panic-town
 
 Done by Nounayi and Matote (Matteo and Charlotte) during the Concordia Makes Games jam, around the theme PANIC !
+
 https://itch.io/jam/concordia-makes-games-online

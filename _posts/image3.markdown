@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Elements"
-categories: jekyll update
+title:  "Trusth"
+categories: Game
 img: trusth.png
 ---
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Documentation
+title:  "Game 5"
+categories: Game
 img: image-5.png
 ---
 

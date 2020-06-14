@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Usage Guide"
-categories: jekyll update
+title:  "Wedding Crashers"
+categories: Game
 img: weddingcrashers.png
-categories: three
 ---
 
 Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.

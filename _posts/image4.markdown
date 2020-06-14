@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Post with no image"
-categories: jekyll update
+title:  "Go Go Dungeons"
+categories: Game
+img: gogodungeon.png
 ---
 When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
 

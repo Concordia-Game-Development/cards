@@ -4,20 +4,13 @@ title:  "Wedding Crashers"
 categories: Game
 img: weddingcrashers.png
 ---
+After spending the night working on your new COVID-19 vaccine, you are late for your OWN WEDDING!!
 
-Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
+Drive as fast as you can to the courthouse so that you can get married. Otherwise, you'll be getting a pre-marriage divorce!
 
-## Image
+Github link: https://github.com/Four-Sided-Triangles/Wedding-Crashers
 
-- Use image of ratio 400x250 (800x500). 
-- Keep them inside ``images`` folder.
-- Mention image name in the front matter as shown below
+Play the game: https://george540.itch.io/weddingcrashers
 
-{% highlight yml %}
----
-layout: post
-title:  "Some title"
-categories: some category
-img: image-name.jpg
----
-{% endhighlight %}
+Done by Armando, Daniel, George and Claudia during the Concordia Makes Games jam, around the theme PANIC !
+https://itch.io/jam/concordia-makes-games-online

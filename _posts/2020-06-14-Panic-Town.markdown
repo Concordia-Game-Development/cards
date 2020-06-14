@@ -4,22 +4,14 @@ title:  "Panic Town"
 categories: Game
 img: panictown.png
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Oh no ! There's trouble in Panictown ! Villagers are running everywhere.
+Catch as many of them as you can before they fall in the river or in the well, and drag and drop them in your cozy and safe pocket. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Playable online, with your favorite mouse ! 
 
-Jekyll also offers powerful support for code snippets:
+If you want, you can also just throw everyone in the pit. You won't get a nice score but you'll get that taking-off-the-swimming-pool-ladder-from-the-sims feel. Oooooh yeah!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Play the game: https://matote.itch.io/panic-town
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Done by Nounayi and Matote (Matteo and Charlotte) during the Concordia Makes Games jam, around the theme PANIC !
+https://itch.io/jam/concordia-makes-games-online

@@ -45,3 +45,12 @@ sass:
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
+#social
+facebook: https://www.facebook.com/concordiagamedev
+email: hello@webjeda.com
+
+#facebook like box
+fb-like-box: yes
+fb-page-url: https://www.facebook.com/concordiagamedev
+fb-page-title: Concordia Game Development
+

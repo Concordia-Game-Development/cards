@@ -1591,8 +1591,8 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
   background-color: rgba(255, 255, 255, 0.2);
 }
 @media (min-width: 768px) {
@@ -1607,7 +1607,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1800px;
+    width: auto;
   }
 }
 .container-fluid {

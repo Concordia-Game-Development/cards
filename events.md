@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: calendar
 title: Events
 permalink: /events/
 ---

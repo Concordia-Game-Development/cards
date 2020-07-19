@@ -11,8 +11,8 @@ Playable online, with your favorite mouse !
 
 If you want, you can also just throw everyone in the pit. You won't get a nice score but you'll get that taking-off-the-swimming-pool-ladder-from-the-sims feel. Oooooh yeah!
 
-Play the game: https://matote.itch.io/panic-town
+Play the game: [Panic Town on itch.io](https://matote.itch.io/panic-town)
 
 Done by Nounayi and Matote (Matteo and Charlotte) during the Concordia Makes Games jam, around the theme PANIC !
 
-https://itch.io/jam/concordia-makes-games-online
+[Concordia Makes Games Online May 15th to 17th 2020](https://itch.io/jam/concordia-makes-games-online)

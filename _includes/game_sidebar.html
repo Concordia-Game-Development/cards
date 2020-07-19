@@ -1,5 +1,9 @@
 <div class="col-md-4 mt20">
     <div class="post-img">
-        <img width="600" src="{{site.baseurl}}/images/discord.png" alt="Discord">
+        {% if post.img %}
+        <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+        {% else %}
+        <img width="100%" src="{{site.baseurl}}/images/cgd_logo.jpg" alt="{{site.title}}">
+        {% endif %}
     </div>
 </div>

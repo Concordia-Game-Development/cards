@@ -4,8 +4,13 @@
 
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
 
+@font-face {
+    font-family: Righteous;
+    src: url("/cgd/fonts/Righteous-Regular.ttf");
+}
+
 // Our variables
-$base-font-family: url("/cgd/fonts/Righteous-Regular.ttf");
+$base-font-family: "Righteous";
 $base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;

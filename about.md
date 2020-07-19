@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Concordia Game Development (CGD) is a club where you and other hobbyists, students and professionals can connect and share ideas about game development.
+Concordia Game Development (CGD) is a club where you and other hobbyists, students and professionals from Concordia University can connect and share ideas about game development.
 
 **Let's make games together!**
 

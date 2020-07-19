@@ -5,7 +5,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
 
 // Our variables
-$base-font-family: "Righteous-Regular";
+$base-font-family: url(/fonts/Righteous-Regular.ttf);
 $base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;

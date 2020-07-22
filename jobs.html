@@ -13,6 +13,12 @@ permalink: /jobs/
              <a href="{{ job.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel panel-default">
                   
+                  {% if post.img %}
+                  <img style="border-radius: 15px 15px 0px 0px;" width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  {% else %}
+                  <img style="border-radius: 15px 15px 0px 0px;" width="100%" src="{{site.baseurl}}/images/cgd_logo.jpg" alt="{{site.title}}">
+                  {% endif %}
+                  
                   <div class="panel-body">
                     <h3 class="panel-title pull-left">{{ job.title | truncate: 25 }}</h3><span class="job-meta pull-right"><small>{{ job.date | date: "%b %-d, %Y" }}</small></span>
                   </div>
@@ -29,7 +35,7 @@ permalink: /jobs/
     </div> 
     
 <div class="row">
-    <div class="col-md-4">  </div>
+
     <div class="col-md-4">
         {% if paginator.total_pages > 1 %}
         <ul class="pagination">

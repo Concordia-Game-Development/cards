@@ -1344,11 +1344,11 @@ mark,
   color: #b3b3b3;
 }
 .text-primary {
-  color: #4582ec;
+  color: #45e2ff;
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #1863e6;
+  color: #45e2ff;
 }
 .text-success {
   color: #3fad46;
@@ -1380,11 +1380,11 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: #4582ec;
+  background-color: #45e2ff;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
-  background-color: #1863e6;
+  background-color: #45e2ff;
 }
 .bg-success {
   background-color: #dff0d8;
@@ -1485,7 +1485,7 @@ blockquote {
   padding: 11px 22px;
   margin: 0 0 22px;
   font-size: 20px;
-  border-left: 5px solid #4582ec;
+  border-left: 5px solid #45e2ff;
 }
 blockquote p:last-child,
 blockquote ul:last-child,
@@ -1509,7 +1509,7 @@ blockquote .small:before {
 blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
-  border-right: 5px solid #4582ec;
+  border-right: 5px solid #45e2ff;
   border-left: 0;
   text-align: right;
 }

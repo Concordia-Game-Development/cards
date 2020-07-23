@@ -14,4 +14,4 @@ Join our [discord](https://discord.gg/9mY7BVK){: target="_blank"} to join our me
 
 Also like our [facebook page](https://www.facebook.com/concordiagamedev){: target="_blank"} to stay tuned with upcoming events! 
 
-Email us for any information or suggestions here: <a href="conu.game.dev@gmail.com">conu.game.dev@gmail.com</a>
+Email us for any information or suggestions here: <a href="mailto:conu.game.dev@gmail.com">conu.game.dev@gmail.com</a>

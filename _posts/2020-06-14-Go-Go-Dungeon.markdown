@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Go Go Dungeons"
+title:  "Go Go Dungeon"
 categories: Game
 img: gogodungeon.png
 ---

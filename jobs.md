@@ -8,8 +8,6 @@ permalink: /jobs/
 
 * [Concept Artist - Disney](https://jobs.smartrecruiters.com/Ludia/743999717640091-concept-artist-disney) - **Ludia** - Junior - Posted August 19th 2020 - Montreal,QC
 
-* [Malay Video Game Proofreader - Montreal](https://www.linkedin.com/jobs/view/1998603773/) - **Keywords Studios** - Junior - Posted August 19th 2020 - Montreal,QC
-
 * [Development Tester](https://careers.activision.com/job/ACPUUSR000272EXTERNAL/Testeur-de-d%C3%A9veloppement-Development-Tester-Beenox) - **Beenox** - Entry - Posted August 19th 2020 - Québec City, QC
 
 * [Specialist Tester (Sony Compliance)](https://hitmarker.net/jobs/ubisoft-specialist-tester-sony-compliance-298175) - **Ubisoft** - Junior - Posted August 18th 2020 - Montreal, QC
@@ -21,8 +19,6 @@ permalink: /jobs/
 * [Video Game Tester (Any Language)](https://ca.indeed.com/viewjob?cmp=Altagram-Canada&jk=f6364d9ea6f08409) - **Altagram** - Entry - Posted August 14th 2020 - Montreal, QC
 
 * [Video Game Tester, Functional Quality Assurance](https://careers.jobscore.com/careers/poletowin/jobs/video-game-tester-functional-quality-assurance-ctHQoAXr4r6PLtaKlTHq4W) - **PTW** - Junior - Posted August 13th 2020 - Montreal, QC
-
-* [Polish Language Localization QA Game Tester](https://apply.workable.com/ptw-i/j/02E4FE4BE3/) - **PTW** - Junior - Posted August 12th 2020 - Montreal, QC
 
 * [Level Designer](https://beans.humi.ca/job-board/level+design/2240) - **The Beans Team** - Junior - Posted August 10th 2020 - Toronto, ON
 

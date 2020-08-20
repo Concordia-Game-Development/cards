@@ -29,5 +29,3 @@ permalink: /jobs/
 * [Support Developer](https://careers.unity.com/position/support-developer-d-veloppeur-support/2237769?gh_src=21cbbd281us) - **Unity** - Junior - Posted August 9th 2020 - Toronto, ON
 
 * [Scriptwriter Intern - August to December 2020](https://jobs.smartrecruiters.com/Ubisoft2/743999716783486-scriptwriter-intern-august-to-december-2020) - **Ubisoft** - Internship - Posted August 6th 2020 - Montreal, QC
-
-* [Junior Software Developer](https://www.linkedin.com/jobs/search/?currentJobId=1953407205&f_E=2&geoId=101174742&keywords=developer&location=Canada) - **Big Viking Games** - Entry - Posted July 21st 2020 - London, ON

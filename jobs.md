@@ -4,7 +4,7 @@ title: Job Opportunities
 permalink: /jobs/
 ---
 
-* [Junior Business Associate](https://www.bigvikinggames.com/careers/?bzid=916c9690cda5) - **Big Viking Games** - Junior - Posted August 19th 2020 - Toronto, ON
+<!-- * [Junior Business Associate](https://www.bigvikinggames.com/careers/?bzid=916c9690cda5) - **Big Viking Games** - Junior - Posted August 19th 2020 - Toronto, ON
 
 * [Concept Artist - Disney](https://jobs.smartrecruiters.com/Ludia/743999717640091-concept-artist-disney) - **Ludia** - Junior - Posted August 19th 2020 - Montreal,QC
 
@@ -24,4 +24,4 @@ permalink: /jobs/
 
 * [Support Developer](https://careers.unity.com/position/support-developer-d-veloppeur-support/2237769?gh_src=21cbbd281us) - **Unity** - Junior - Posted August 9th 2020 - Toronto, ON
 
-* [Scriptwriter Intern - August to December 2020](https://jobs.smartrecruiters.com/Ubisoft2/743999716783486-scriptwriter-intern-august-to-december-2020) - **Ubisoft** - Internship - Posted August 6th 2020 - Montreal, QC
+* [Scriptwriter Intern - August to December 2020](https://jobs.smartrecruiters.com/Ubisoft2/743999716783486-scriptwriter-intern-august-to-december-2020) - **Ubisoft** - Internship - Posted August 6th 2020 - Montreal, QC -->

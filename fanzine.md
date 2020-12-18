@@ -4,6 +4,8 @@ title: Fanzine
 permalink: /fanzine/
 ---
 
+* [December 2020 CGD Monthly Issue #5](fanzines/December-2020.pdf)
+
 * [November 2020 CGD Monthly Issue #4](fanzines/November-2020.pdf)
 
 * [October 2020 CGD Monthly Issue #3](fanzines/October-2020.pdf)

@@ -4,7 +4,7 @@ title: Fanzine
 permalink: /fanzine/
 ---
 
-* [January 2021 CGD Monthly Issue #5](fanzines/January-2021.pdf)
+* [January 2021 CGD Monthly Issue #6](fanzines/January-2021.pdf)
 
 * [December 2020 CGD Monthly Issue #5](fanzines/December-2020.pdf)
 

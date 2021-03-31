@@ -3,6 +3,8 @@ layout: page
 title: Fanzine
 permalink: /fanzine/
 ---
+* [March 2021 CGD Monthly Issue #8](fanzines/March-2021.pdf)
+
 * [February 2021 CGD Monthly Issue #7](fanzines/February-2021.pdf)
 
 * [January 2021 CGD Monthly Issue #6](fanzines/January-2021.pdf)
